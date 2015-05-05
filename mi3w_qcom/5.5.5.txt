@@ -1,8 +1,4 @@
 修复电源键打开静音模式失效的问题;
-Fix silent mode fail when we use power key enable it
 修复桌面隐藏搜索框之后图标字体缺失问题;
-Fix lost text or icon when we disable show search bar
 更新内核;
-Update kernel
-修复应用层和hal层RIL常量不比配问题;
-Telephony: Modify RIL Constants in accordance with LMR1 RIL.h
+修复应用层和hal层RIL常量不匹配问题;
