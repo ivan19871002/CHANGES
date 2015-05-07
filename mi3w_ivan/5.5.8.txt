@@ -1,0 +1,6 @@
+更新内核升级电源管理和USB相关代码
+尝试修复charger_monitor导致异常唤醒耗电的问题
+修复米3W/C机型5.5.7版本无法开机的问题
+更新fstab中otg自动挂载点
+增加接口:/sys/kernel/wakeup_reasons/last_resume_reason
+以上都是测试性修改，需要大量测试
