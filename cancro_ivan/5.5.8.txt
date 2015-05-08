@@ -1,0 +1,7 @@
+修复部分游戏与应用花屏；（例如coc）
+更新私有库
+更新内核升级电源管理和USB相关代码
+修复几处会crash的问题
+尝试修复charger_monitor导致异常唤醒耗电的问题
+更新fstab中otg自动挂载点
+增加接口:/sys/kernel/wakeup_reasons/last_resume_reason
