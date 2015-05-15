@@ -1,0 +1,7 @@
+Update kernel
+Update to android-5.1.1_r2
+Update vold to support f2fs ntfs and exfat
+升级内核
+升级至android 5.1.1_r2
+更新支持f2fs,ntfs,exfat
+现在otg可以支持这些格式了
