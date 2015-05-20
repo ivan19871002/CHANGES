@@ -1,0 +1,11 @@
+Update kernel
+Update to android-5.1.1_r2
+Update otg to support ntfs and exfat
+Merge LA.BF.1.1.1-03410-8x74.0
+Add Support 4k video record
+升级内核
+升级至android 5.1.1_r2
+更新支持f2fs,ntfs,exfat
+现在otg可以支持这些格式了
+合并高通LA.BF.1.1.1-03410-8x74.0分支代码
+增加4k录像支持
