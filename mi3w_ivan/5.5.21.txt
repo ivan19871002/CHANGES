@@ -1,0 +1,8 @@
+Add Support VibratorIntensity
+ * Settings-->sound & notification-->Other sounds-->Vibrator intensity
+Add PCC calibration interface
+ * Settings-->Display--> Color calibration
+新增震动调节
+设置-->提示音和通知-->其他提示音-->振动器强度
+新增颜色校准
+设置-->显示-->颜色校准
