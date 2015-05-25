@@ -1,0 +1,14 @@
+Add Support VibratorIntensity
+ * Settings-->sound & notification-->
+   Other sounds-->Vibrator intensity
+Add PCC calibration interface
+ * Settings-->Display--> Color calibration
+Update blobs from Qcom
+This is the last one,let's wait for Google
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+新增震动调节
+设置-->提示音和通知-->其他提示音-->振动器强度
+新增颜色校准
+设置-->显示-->颜色校准
+升级私有驱动
+这是Google升级android大版本之前的最后一个版本
