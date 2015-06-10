@@ -1,0 +1,3 @@
+Update kernel
+修复偶现有wifi时走数据连接的问题
+
