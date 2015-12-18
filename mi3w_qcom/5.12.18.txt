@@ -1,0 +1,11 @@
+更新部分驱动
+Update drivers
+
+OTA升级应用可能会报错具体设置如下：
+设置～应用～系统更新～权限
+勾选存储卡权限
+
+apply ota package maybe crash:
+so we must give it perrmission
+Settings~apps~Updater~permissions
+Set Storage
