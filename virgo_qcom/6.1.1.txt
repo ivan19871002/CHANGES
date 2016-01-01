@@ -1,0 +1,48 @@
+
+更新日志
+1、修复部分用户Mac地址重启随机变化的问题
+2、修复部分用户关闭数据网络之后重启自动打开的问题
+3、修复系统更新ota更新的时候FC的问题，默认给了权限
+4、更新了声音部分驱动
+5、更新了解码器，使用了ffmpeg
+6、新增Eleven音乐播放器，感谢CM
+7、尝试修复部分用户通话中灭屏还能使用触摸屏的问题，需要更多的测试
+8、修复时钟世界时钟FC的问题
+9、增加关机闹钟，在闹钟设置里面可设置
+10、修复MiNote 传感器第一次开机无法使用的问题
+11、更新Wi-Fi驱动
+12、增加root，使用的是SuperSu 2.46 final版
+13、添加屏幕颜色调整：设置～显示
+14、重新添加均衡模式和省电模式的温控文件，根据MIUI 官方配置修改
+15、修复部分sim卡状态栏和下拉栏运营商名字显示英文的问题，此处根据中英文语言切换
+16、优化双卡逻辑，卡2可以使用4g，不过还需要更多的测试
+17、odex分离，加快启动速度，需要合并分区
+警告：
+一定要使用官方的方法合并分区，不然无法正常刷机。
+或者
+米 3W/C  米4 system分区 > 1.4Gb
+米Note  system 分区 > 1.5Gb
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Change log list
+1、Fix random mac address
+2、Fix data automatic connection
+3、Fix update.apk crash
+4、Update audio driver
+5、Add FFmpeg, not from cm, by myself
+6、Add Eleven , thanks cm
+7、Fix touch problem when calling
+8、Fix city clock crash
+9、Add support power off alarm
+10、Fix Mi Note sensor works when first boot 
+11、Update prima driver
+12、Add SuperSu 2.46 Final
+13、Add PCC calibration interface,Settings-->Display--> Color calibration
+14、Update thermal config, form miui kk
+15、Fix sim card display for china
+16、try to fix Mi Note card 2
+17、# Enable dex pre-opt to speed up initial boot
+Warning :
+please Update to miui 7 base android 6.0, Only Support The New Partition
+or 
+cancro system partition size > 1.4Gb
+virgo system partition size > 1.5Gb
