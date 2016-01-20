@@ -1,0 +1,59 @@
+
+更新日志
+1、尝试修复通讯录导入FC问题，新增一些优化修改
+2、更换Camera2 为骁龙相机
+3、更新图库
+4、修复几处设置容易导致崩溃的问题
+5、新增闹钟可自选铃声
+6、调整小米Note ro.sf.lcd_density 为440
+7、修复Email一些问题
+8、新增农历和节假日显示
+9、优化T9拨号
+10、优化归属地显示
+11、更新录音机
+12、修复部分带有录音功能设备暂停功能异常的问题
+13、优化自选铃声中选中自定义铃声重启之后铃声显示异常或者无铃声的问题
+14、优化通讯录，修改部分界面为MD风格
+15、优化通话记录滑动部分，减少卡顿
+17、引入lookup功能，感谢CM
+18、尝试修复部分用户由于i2c的bug 导致异常重启的问题
+19、合并部分高通代码，修复稳定性和bug
+20、尝试修复部分用户传感器失效的问题
+21、增加调节DPI功能，设置～显示～LCD 密度
+22、更新蓝牙部分，尝试修复音乐播放的异常问题
+23、合并Android 6.0.1
+
+部分T9优化和归属地代码来自以下开源项目@SuadMod  @魔趣
+感谢相关开发者
+
+警告：
+一定要使用官方的方法合并分区，不然无法正常刷机。
+或者
+米 3W/C  米4 system分区 > 1.4Gb
+米Note  system 分区 > 1.5Gb
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Change log list
+1、Fix Contacts FC,tweak 
+2、remove Camera2 , use SnapdragonCamera
+3、Update Gallery2
+4、Fix Settings crash
+5、DeskClock: Add selection for external device
+6、set ro.sf.lcd_density 440 for xiaomi note lte
+7、Update Email
+8、add lunar for china
+9、tweak t9 for china
+10、Update Soundrecorder
+11、Fix some audio errors when we update 6.0.1
+12、add lookup  thanks cm
+13、tweak dialer
+15、fix random reboot issus that maybe from i2c error
+16、Merge some qcom code  
+17、Fix some bluetooth problems
+18、Merge Android 6.0.1
+20、Add support set lcd density，  Settings～display～lcd density
+21、fix sensor issus
+Warning :
+please Update to miui 7 base android 6.0, Only Support The New Partition
+or 
+cancro system partition size > 1.4Gb
+virgo system partition size > 1.5Gb
