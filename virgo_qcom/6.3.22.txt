@@ -13,4 +13,4 @@
 12、关闭 dex pre-opt，因为打开之后会导致刷入xposed之后，概率性的应用FC 
 
 Recovery地址：
-http://pan.baidu.com/s/1boe1RkF   02-25之后的版本都可以，支持多语言
+链接:http://pan.baidu.com/s/1boe1RkF 密码:ws6p   02-25之后的版本都可以，支持多语言
