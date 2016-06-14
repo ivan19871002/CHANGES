@@ -1,0 +1,11 @@
+
+更新日志
+１、修复闹钟铃声问题
+２、更新内核
+３、使用新的签名替代testkey，修复部分安全问题
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Change log list
+1、Fix deskclock ringtone
+2、Update kernel
+3、Update releaseky to fix security issus
