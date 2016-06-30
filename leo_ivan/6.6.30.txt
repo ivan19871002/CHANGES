@@ -1,0 +1,23 @@
+
+更新日志
+1、修复CPU运行模式无效的问题
+   性能：8核全开，关闭温控，但是不满频率，按需
+   均衡：4小+2大
+   省电：4小
+2、修复部分时候关闭触摸按键打开虚拟按键异常的问题
+3、修复加密模式异常的问题
+4、修复开机动画比较晚出来，米logo时间太长大问题
+5、默认打开所有播放器的offload模式
+6、调整温控相关参数，提高关核温度，调整GPU降频策略
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Change log list
+1.Fix cpu mode
+  performannce: 8 core , disable thermal-engine
+  Nomal: 4 lit + 2 big
+  PowerSave: 4lit
+2.Fix nav button and virtual key
+3.Fix Encrypt
+4.Fix bootanimation
+5.always open audio offload
+6.tuning thermal config
+
